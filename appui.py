@@ -1,5 +1,5 @@
 import streamlit as st
-import cv2  # Assuming you have OpenCV installed
+from opencv-python import cv2 # Assuming you have OpenCV installed
 import numpy as np
 from app import extract_frames,process, get_image_paths,live_process  # Import backend functions
 from ultralytics import YOLO
