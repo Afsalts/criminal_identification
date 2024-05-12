@@ -1,0 +1,5 @@
+omegaconf
+ultralytics -q
+# !pip install gradio -q
+# !pip install pandas -q
+deepface -q
