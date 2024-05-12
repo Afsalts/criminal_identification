@@ -1,5 +1,5 @@
-deepface
-ultralytics
-omegaconf
-streamlit
-opencv-python
+deepface==0.0.86
+ultralytics==8.2.12
+omegaconf==2.3.0
+streamlit==1.26.0
+opencv-python==4.9.0
