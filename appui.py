@@ -9,7 +9,6 @@ from PIL import Image
 # import gradio as gr
 import shutil
 import pandas
-import cv2
 import os
 import time
 def main():
